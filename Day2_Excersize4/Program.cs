@@ -9,7 +9,9 @@ namespace Day2_Excersize4
     class Program
     {
         static void Main(string[] args)
-        {//changes done in GitHub website
+        {
+            //changes done in GitHub website
+            //Second Change
         }
     }
 }
