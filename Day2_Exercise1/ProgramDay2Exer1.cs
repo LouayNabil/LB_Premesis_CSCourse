@@ -5,8 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Method2
-{//Day 2 Excersize
-    class Program
+{   //Day 2 Exercise1. 
+    //enum, struct,
+    class ProgramDay2Exer1
     {
         enum enum_FileTyper
         {

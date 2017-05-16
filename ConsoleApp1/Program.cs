@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day2_Excersize4
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-			//changes made at LB
-			//changes nr#2 made at LB
         }
     }
 }

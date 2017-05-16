@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DD4AE37E-8DEA-43E6-A5D8-125362F80FFE}</ProjectGuid>
+    <ProjectGuid>{1C2F75C2-34A4-4DC7-95C8-07AD9F890E93}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day1_Exce1</RootNamespace>
-    <AssemblyName>Day1_Exce1</AssemblyName>
+    <RootNamespace>Day2_Excersize1</RootNamespace>
+    <AssemblyName>Day2_Excersize1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="ProgramDay2Exer1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //Adding Comment
-namespace Day2_Excersize3
+namespace Day2_Exercise2
 {
-    class Program
+    class ProgramDay2Exe2
     {
         static void Main(string[] args)
         {
