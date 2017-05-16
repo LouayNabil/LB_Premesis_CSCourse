@@ -12,13 +12,6 @@ namespace Day2_Exersize3
         {
             //changes made at LB
             //changes nr#2 made at LB
-#if true
-
-            for (int i = 0; i < length; i++)
-            {
-
-            }
-#endif
         }
     }
 }

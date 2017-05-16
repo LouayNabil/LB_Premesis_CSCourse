@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day3_Exercise1
 {
-    class Program
+    class ProgramDay3Exe1
     {
         static void Main(string[] args)
         {
@@ -15,7 +15,7 @@ namespace Day3_Exercise1
             int Int_Radius = 5;
             double double_beløb = 5000;
             double double_momsPct = 0.25;
-            double månedsløn[] = { 1500, 2500, 3500, 4500 };
+            //Mangler denne opgave: double månedsløn[] = { 1500, 2500, 3500, 4500 };
 
             Console.WriteLine("Lægsammen: " + Lægsammen(int_a, int_b));
             Console.WriteLine("Areal er:  " + BerenAreal(Int_Radius));
@@ -45,10 +45,5 @@ namespace Day3_Exercise1
             return (double_beløb* double_momsPct);
         }
         //Mangler denne opgave:  static double Gennemsnit(int[] månedsløn)
-        {
-
-
-
-        }
     }
 }
