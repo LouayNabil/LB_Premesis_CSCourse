@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{897CC4C7-64C4-4834-9D3C-2005C23F4F70}</ProjectGuid>
+    <ProjectGuid>{0AA1576F-1B99-477E-898E-346E5C6A61F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day4_Exercise3</RootNamespace>
-    <AssemblyName>Day4_Exercise3</AssemblyName>
+    <RootNamespace>Day4_Exercise2</RootNamespace>
+    <AssemblyName>Day4_Exercise2</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,8 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArealBeregningerClass.cs" />
-    <Compile Include="ProgramDay4_Exercise3.cs" />
+    <Compile Include="ProgramDay4_Exercise2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
