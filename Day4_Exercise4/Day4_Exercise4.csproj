@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D210F1D1-8A48-4C55-83DB-BBF344052B7F}</ProjectGuid>
+    <ProjectGuid>{E6096792-183E-400C-89E8-FDE486ECC014}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day4_Exercise3</RootNamespace>
-    <AssemblyName>Day4_Exercise3</AssemblyName>
+    <RootNamespace>Day4_Exercise4</RootNamespace>
+    <AssemblyName>Day4_Exercise4</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,11 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ElevClass.cs" />
-    <Compile Include="InstruktørClass.cs" />
-    <Compile Include="PersonClass.cs" />
-    <Compile Include="ProgramDay4_Exercise3.cs" />
+    <Compile Include="ProgramDay4_Exercise4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TerningClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
