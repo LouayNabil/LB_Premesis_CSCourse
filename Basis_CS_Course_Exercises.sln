@@ -23,9 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_Exercise5", "Day3_Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_Exercise6", "Day3_Exercise6\Day3_Exercise6.csproj", "{8615A450-F3B7-41F0-B1F0-0915357A852E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramDay4_Exercise1", "ProgramDay4_Exercise1\ProgramDay4_Exercise1.csproj", "{52F2A134-0E43-475D-9013-BE17127AF0A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_Exercise1", "ProgramDay4_Exercise1\Day4_Exercise1.csproj", "{52F2A134-0E43-475D-9013-BE17127AF0A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramDay4_Exercise2", "ProgramDay4_Exercise2\ProgramDay4_Exercise2.csproj", "{6A726762-204C-473F-AC18-B91D5CA8B2D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_Exercise2", "ProgramDay4_Exercise2\Day4_Exercise2.csproj", "{6A726762-204C-473F-AC18-B91D5CA8B2D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
