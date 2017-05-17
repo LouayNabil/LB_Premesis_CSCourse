@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day4_Exercise4
+namespace Day4_Exercise6
 {
-    class ProgramDay4_Exercise4
+    class Class_Elev: Class_Person
     {
-        static void Main(string[] args)
-        {
-        }   
+        public int Klasselokale { get; set; }
     }
 }
