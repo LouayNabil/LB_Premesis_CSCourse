@@ -43,7 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ProgramDay3Exe4.cs" />
-    <Compile Include="ProgramDay3Exe4_TerningClass.cs" />
+    <Compile Include="Day3Exe4_TerningClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

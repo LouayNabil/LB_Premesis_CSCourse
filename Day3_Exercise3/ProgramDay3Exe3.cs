@@ -13,9 +13,11 @@ namespace Day3_Exercise3
             int[] MyArray = { 1, 2, 3, 4, 5 };
             int[] MyArray2 = { 1, 2, 3, 4, 5 };
             var res = "";
-            System.Console.WriteLine("Gennemsnit som Day3Exe1, hvor det´r returneres KUN EN VÆRDI:  " + BeregnOgSorterArray(MyArray));
-            System.Console.WriteLine("Gennemsnit, hv:  " + BeregnOgSorterArray2(MyArray2));
-            System.Console.ReadKey();  
+            System.Console.WriteLine("Der reurneres Kun et værdi 'Gennemsnit' som implimenteret i Day3Exe1:  " + BeregnOgSorterArray(MyArray));
+            System.Console.WriteLine();
+            System.Console.WriteLine("Vi returnere to værdier Gennemsnit & sum, klares ved at");
+            System.Console.WriteLine("Brug STRUCT:  " + BeregnOgSorterArray2(MyArray2));
+            System.Console.ReadKey();
 
         }
         //static double Gennemsnit(int[] månedsløn)
@@ -36,15 +38,7 @@ namespace Day3_Exercise3
             Array.Sort(MyArray2);
             return MyStruct;
         }
-        /*    public double struct ArrayResultat;
-        public double sum;
-        public double Gennemsnit;
-        //System.Array.
-        //Array.sort
-        return int f//ArrayResultat;
-    */
     }
-
     struct ArrayResultat
     {
         public double sum;

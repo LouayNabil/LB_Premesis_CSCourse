@@ -20,6 +20,7 @@ namespace Day3_Exercise5
             t1.Skriv();
             t1.Ryst();
             t1.Skriv();
+            System.Console.ReadKey();
 
 
         }
