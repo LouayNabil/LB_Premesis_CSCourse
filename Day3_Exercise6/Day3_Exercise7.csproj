@@ -43,7 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Day3_Exercise5_Class_Vare_Egnskaber.cs" />
-    <Compile Include="ProgramDay3_Exercise6.cs" />
+    <Compile Include="ProgramDay3_Exercise7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

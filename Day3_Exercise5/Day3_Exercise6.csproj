@@ -42,8 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Day3_Exercise5_OffentligPrivatClass1.cs" />
-    <Compile Include="ProgramDay3_Exercise5.cs" />
+    <Compile Include="Day3_Exercise6_OffentligPrivatClass1.cs" />
+    <Compile Include="ProgramDay3_Exercise6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
