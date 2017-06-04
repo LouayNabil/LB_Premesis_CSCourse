@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2_Exercise4", "Day2_Exersise4\Day2_Exercise4.csproj", "{BB72758B-A0FC-4242-ACCE-544B153BED82}"
 EndProject
@@ -18,8 +18,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_Exercise1", "Day3_Exercise1\Day3_Exercise1.csproj", "{38396AFD-AED2-48DE-B4A0-26D32D100CC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_Exercise4", "Day3_Exercise4\Day3_Exercise4.csproj", "{335D6034-9CA8-4E60-B3DA-6206D7EBAFAC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_Exercise1", "ProgramDay4_Exercise1\Day4_Exercise1.csproj", "{52F2A134-0E43-475D-9013-BE17127AF0A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_Exercise3", "Day4_Exercise3\Day4_Exercise3.csproj", "{D210F1D1-8A48-4C55-83DB-BBF344052B7F}"
 EndProject
@@ -81,10 +79,6 @@ Global
 		{335D6034-9CA8-4E60-B3DA-6206D7EBAFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335D6034-9CA8-4E60-B3DA-6206D7EBAFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335D6034-9CA8-4E60-B3DA-6206D7EBAFAC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{52F2A134-0E43-475D-9013-BE17127AF0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52F2A134-0E43-475D-9013-BE17127AF0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52F2A134-0E43-475D-9013-BE17127AF0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52F2A134-0E43-475D-9013-BE17127AF0A4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D210F1D1-8A48-4C55-83DB-BBF344052B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D210F1D1-8A48-4C55-83DB-BBF344052B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D210F1D1-8A48-4C55-83DB-BBF344052B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
