@@ -12,7 +12,7 @@ namespace Day4_Exercise3
         public string Efternavn { get; set; }
         public string FuldNavn()
         {
-            return (this.Fornavn + "  " + Efternavn);
+            return (this.Fornavn + "  " + this.Efternavn);
         }
     }
 
