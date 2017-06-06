@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Day4_Exercise3
-{//Arv. klassediagram så du kan se hele hierarkiet. Status:? synes at Elev & Instruktør skriver ikke Klasselokale & Nøgleid
+{//Arv. klassediagram så du kan se hele hierarkiet. Status:? synes at Elev & Instruktør skriver ikke Klasselokale & Nøgleid.
     class ProgramDay4_Exercise3
     {
         static void Main(string[] args)
